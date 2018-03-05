@@ -1,0 +1,38 @@
+{
+    "Local_Computer": [
+        "home",
+        "bin",
+        "users",
+        "Bots",
+        "logs"
+    ],
+    "home": [
+        "reinisamazing.txt",
+        "something.txt"
+    ],
+    "bin": [
+        "newDir"
+    ],
+    "users": [
+        "LevitatingBusinessMan.txt",
+        "Lynx.txt",
+        "Woof Woof.txt"
+    ],
+    "newDir": [
+        "anotherDir"
+    ],
+    "anotherDir": [],
+    "Bots": [
+        "Alchemy",
+        "Ditter",
+        "Local Computer",
+        "Subaru"
+    ],
+    "Alchemy": [],
+    "Ditter": [],
+    "Local Computer": [
+        "Commands.txt"
+    ],
+    "Subaru": [],
+    "logs": []
+}
